@@ -1,2 +1,1 @@
-# AP_Plan
-Amairo Pastel plans
+# Amairo Pastel plans
